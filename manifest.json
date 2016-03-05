@@ -1,0 +1,9 @@
+{
+  "name": "musical-glass",
+  "title": "Musical Glass",
+  "description": "Musical glass that can be filled with water",
+  "version": "0.0.1",
+  "author": "Jan Paul Posma",
+  "defaultConfig": {
+  }
+}
